@@ -1,4 +1,4 @@
-![This is an image](4.png)
+
 
 What are the contents of these projects?
 ---
